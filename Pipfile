@@ -11,6 +11,7 @@ langchain-community = "*"
 langchain = "*"
 langchain-openai = "*"
 faiss-cpu = "*"
+tiktoken = "*"
 
 [dev-packages]
 
